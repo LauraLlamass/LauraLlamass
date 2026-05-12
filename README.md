@@ -1,4 +1,4 @@
-# Hi, I’m @LauraLlamass ✨
+# Hi, I’m Laura Llamas ✨
 
 Frontend developer focused on UI design and modern web experiences.
 
