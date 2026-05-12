@@ -1,3 +1,4 @@
+<img width="1500" height="500" alt="Añadir un subtítulo (1)" src="https://github.com/user-attachments/assets/e4925695-4b96-4545-a4b8-43a276eb3d63" />
 # Hi, I’m Laura Llamas ✨
 
 Frontend developer focused on UI design and modern web experiences.
