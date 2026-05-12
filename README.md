@@ -1,9 +1,9 @@
-<img width="1500" height="500" alt="Añadir un subtítulo (1)" src="https://github.com/user-attachments/assets/e4925695-4b96-4545-a4b8-43a276eb3d63" />
+<img width="1500" height="500" alt="Añadir un subtítulo (1)" src="https://github.com/user-attachments/assets/be2211ce-9ca7-4355-8db8-a37b7388ced9" />
 # Hi, I’m Laura Llamas ✨
 
-Frontend developer focused on UI design and modern web experiences.
+I come from a creative background closely connected to writing, visual storytelling and editorial-inspired design. Alongside frontend development, I enjoy creating illustrations for personal writing projects and collaborative books, which has shaped the way I approach composition, aesthetics and visual identity in digital interfaces.
 
-I enjoy building clean, visual and responsive interfaces with a strong aesthetic identity.
+I’m especially interested in interfaces that feel intentional, atmospheric and visually cohesive, where design becomes part of the storytelling experience.
 
 ## Tech
 
