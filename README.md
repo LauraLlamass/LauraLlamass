@@ -6,7 +6,7 @@ I enjoy building clean, visual and responsive interfaces with a strong aesthetic
 
 ## Tech
 
-React • TypeScript • CSS • Tailwind • Figma
+React • TypeScript • CSS • Tailwind
 
 ## Featured Projects
 
