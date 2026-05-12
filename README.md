@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="Añadir un subtítulo (1)" src="https://github.com/user-attachments/assets/be2211ce-9ca7-4355-8db8-a37b7388ced9" />
+<img width="1500" height="500" alt="Añadir un subtítulo (2)" src="https://github.com/user-attachments/assets/0c43745d-82f9-4a80-be7b-fa814d19d705" />
+
 # Hi, I’m Laura Llamas ✨
 
 I come from a creative background closely connected to writing, visual storytelling and editorial-inspired design. Alongside frontend development, I enjoy creating illustrations for personal writing projects and collaborative books, which has shaped the way I approach composition, aesthetics and visual identity in digital interfaces.
