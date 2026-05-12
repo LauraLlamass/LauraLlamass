@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Añadir un subtítulo (3)" src="https://github.com/user-attachments/assets/583e2183-d192-40ab-8463-00174b65e14c" />
+<img width="1500" height="350" alt="Añadir un subtítulo (1500 x 350 px)" src="https://github.com/user-attachments/assets/d7991b2e-9bdf-4ff6-a8ce-ed3558c8bb0a" />
 
 I come from a creative background closely connected to writing, visual storytelling and editorial-inspired design. Alongside frontend development, I enjoy creating illustrations for personal writing projects and collaborative books, which has shaped the way I approach composition, aesthetics and visual identity in digital interfaces.
 
