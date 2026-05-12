@@ -10,10 +10,10 @@ React • TypeScript • CSS • Tailwind
 
 ## Featured Projects
 
-🐈‍⬛ The Black Cat Brew
+🐈‍⬛ The Black Cat Brew. carpinteria-six.vercel.app
 Visual coffee discovery experience inspired by specialty cafés.
 
-🪵 Carpintería Las Artesanas
+🪵 Carpintería Las Artesanas. the-black-cat-brew.vercel.app
 Boutique carpentry website focused on editorial layouts and branding.
 
 ## I’d like to keep growing in
