@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @LauraLlamass
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m @LauraLlamass ✨
 
-<!---
-LauraLlamass/LauraLlamass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend developer focused on UI design and modern web experiences.
+
+I enjoy building clean, visual and responsive interfaces with a strong aesthetic identity.
+
+## Tech
+
+React • TypeScript • CSS • Tailwind • Figma
+
+## Featured Projects
+
+🐈‍⬛ The Black Cat Brew
+Visual coffee discovery experience inspired by specialty cafés.
+
+🪵 Carpintería Las Artesanas
+Boutique carpentry website focused on editorial layouts and branding.
+
+## I’d like to keep growing in
+
+UI Design • Motion • Design Systems • Editorial Layouts • Accessibility • Figma
+
+Currently exploring visual composition and editorial layout tools like Affinity Publisher.
+
+## Contact
+
+📩 [laurallamasrod@gmail.com](mailto:your-email@example.com)
+
+💼 www.linkedin.com/in/laurallr
